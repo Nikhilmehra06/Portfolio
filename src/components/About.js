@@ -1,11 +1,11 @@
 import React from 'react';
-import scrollIntoView from 'scroll-into-view';
+import ScrollIntoView from 'scroll-into-view';
 import { FaChevronDown } from 'react-icons/fa';
 
 const About = () => {
   return (
     <>
-      <div className="m-w-4xl mt-20 mx-auto">
+      <div className="max-w-4xl mt-20 mx-auto">
         <p className="text-2xl text-black md:text-4xl font-bold text-center">
           Hey 👋
         </p>
