@@ -12,7 +12,7 @@ const About = () => {
         <p className="text-base sm:text-xl text-center text-gray-600 leading-relaxed mt-4">
           I am a Passoinate Web Developer. I love to create Responsive
           Websites.Currently Working as an Intern in ReatJs. I want to become a
-          Full stack Web Developer. I Think i am funny
+          Full stack Web Developer.
         </p>
       </div>
       <ScrollIntoView selector="#tech">
