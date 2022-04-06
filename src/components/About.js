@@ -1,5 +1,5 @@
 import React from 'react';
-import ScrollIntoView from 'scroll-into-view';
+import ScrollIntoView from 'react-scroll-into-view';
 import { FaChevronDown } from 'react-icons/fa';
 
 const About = () => {
@@ -15,11 +15,11 @@ const About = () => {
           Full stack Web Developer. I Think i am funny
         </p>
       </div>
-      <scrollIntoView selector="#tech">
+      <ScrollIntoView selector="#tech">
         <div className="mx-auto p-20">
           <FaChevronDown className="animate-bounce  mx-auto text-3xl text-blue-600" />
         </div>
-      </scrollIntoView>
+      </ScrollIntoView>
     </>
   );
 };
