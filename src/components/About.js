@@ -1,6 +1,6 @@
-import React from 'react';
-import ScrollIntoView from 'react-scroll-into-view';
-import { FaChevronDown } from 'react-icons/fa';
+import React from "react";
+import ScrollIntoView from "react-scroll-into-view";
+import { FaChevronDown } from "react-icons/fa";
 
 const About = () => {
   return (
@@ -10,9 +10,9 @@ const About = () => {
           Hey 👋
         </p>
         <p className="text-base sm:text-xl text-center text-gray-600 leading-relaxed mt-4">
-          I am a Passoinate Web Developer. I love to create Responsive
-          Websites.Currently Working as an Intern in ReatJs. I want to become a
-          Full stack Web Developer.
+          I am Experienced Front-End Developer with a strong background in
+          multi-platform JavaScript-based technologie with a strong grasp of
+          backend (APIs, databases) for seamless application integration.t
         </p>
       </div>
       <ScrollIntoView selector="#tech">

@@ -17,7 +17,7 @@ const Card = () => {
           <div className="text-center mt-5">
             <p className="text-xl sm:2xl text-gray-900">Nikhil Mehra</p>
             <p className="text-xx sm:text-base text-gray-600 pt-2 pb-4 px-5 w-auto inline-block border-b-2">
-              Web Developer || ReactJs Intern
+             Reactjs Devloper
             </p>
 
             <div className="flex align-center justify-center mt-4 m-auto ">

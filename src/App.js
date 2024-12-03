@@ -6,6 +6,7 @@ import Skill from './components/Skill';
 import Contact from './components/Contact';
 import aos from 'aos';
 import 'aos/dist/aos.css';
+import TimeLine from './components/TimeLine';
 
 export default function App() {
   useEffect(() => {
@@ -22,6 +23,7 @@ export default function App() {
       <div data-aos="fade-up" data-aos-duration="800" data-aos-delay>
         <About />
       </div>
+      <TimeLine />
 
       <Skill />
       <Contact />
